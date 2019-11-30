@@ -1,0 +1,14 @@
+# Welcome
+
+If you landed here but you're looking for the Walsh Lab's official website, we redirect you [here](http://www.dawalshlab.ca/).
+
+## Summary
+
+This is the website for our code archive. Here, we've indexed our available workflows and scripts with the goal of advancing science reproducibility.
+
+## Site contents
+
+- [Metagenomics](https://dawalshlab.github.io/metagenomics)
+- [Amplicons](https://dawalshlab.github.io/amplicons)
+- [Ecology](https://dawalshlab.github.io/ecology)
+
